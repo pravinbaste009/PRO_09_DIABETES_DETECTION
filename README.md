@@ -1,1 +1,4 @@
-# PRO_09_DIABETES_DETECTION
+# Diabeted Detection Using Machine Learning
+# Link of Web Application:
+https://diabetes009.herokuapp.com/
+
