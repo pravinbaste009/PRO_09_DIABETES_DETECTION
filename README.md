@@ -2,6 +2,6 @@
 # Link of Web Application:
 https://diabetes009.herokuapp.com/
 # Screenshot's 
-![](01.png)
+![](01.PNG)
 
 
